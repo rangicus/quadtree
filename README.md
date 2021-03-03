@@ -1,2 +1,2 @@
 # QuadTree
-[A template for my personal projects.](https://github.com/rangicus/quadtree.git)
+An implementation of the QuadTree search algorithm in p5.js.
